@@ -1,6 +1,5 @@
 # projeto
 
-
 <h1 align ="center"> DevLinks </h1>
 
 <p align="center">
@@ -45,4 +44,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 
 Esse projeto está sob a licença MIT.
 
-Feito com amor by ANDRESSA aluna da Rocketseat :wave: [Partcipe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com amor by ANDRESSA
